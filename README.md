@@ -1,8 +1,8 @@
 # Connect with me :speech_balloon:
 
 <p align="center">
-<a href="https://stackoverflow.com/users/8079868/muhammad-numan"><img src="https://github-readme-stackoverflow.vercel.app/?userID=8079868" /></a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=numandev1">
+<a href="https://avatars.githubusercontent.com/u/60421367?v=4"><img src="https://avatars.githubusercontent.com/u/60421367?v=4" /></a>
+  <img align="right" src="https://avatars.githubusercontent.com/u/60421367?v=4">
 </p>
 
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/numandev) [<img src="https://img.shields.io/website?label=numan.dev&style=for-the-badge&logo=google%20chrome&url=https://numan.dev">](https://numan.dev) [<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">](https://www.youtube.com/@numandev?sub_confirmation=1) [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/numandev1/) [<img src="https://img.shields.io/badge/muhammadnuman70@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:muhammadnuman70@gmail.com">](mailto:muhammadnuman70@gmail.com)
