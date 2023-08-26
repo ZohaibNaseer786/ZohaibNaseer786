@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://stackoverflow.com/users/12949232/zohaib-naseer"><img src="https://github-readme-stackoverflow.vercel.app/?userID=12949232" /></a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZohaibNaseer786">
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZohaibNaseer786"> -->
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibnaseer786&layout=compact">
 </p>
 
